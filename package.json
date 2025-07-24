@@ -39,12 +39,6 @@
     "prettier": "^3.2.5",
     "supertest": "^6.3.3"
   },
-  "jest": {
-    "testEnvironment": "node",
-    "testMatch": [
-      "**/tests/**/*.test.js"
-    ]
-  },
   "description": "Book API",
   "directories": {
     "test": "tests"

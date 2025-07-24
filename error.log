@@ -17,3 +17,9 @@
 {"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:46:30.629Z"}
 {"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:46:48.493Z"}
 {"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:47:16.030Z"}
+{"level":"error","message":"Only admin can delete books","timestamp":"2025-07-24T21:01:04.863Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2025-07-24T21:02:51.261Z"}
+{"level":"error","message":"Only admin can delete books","timestamp":"2025-07-24T21:02:51.267Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2025-07-24T21:04:56.655Z"}
+{"level":"error","message":"Only admin can delete books","timestamp":"2025-07-24T21:04:56.662Z"}
+{"level":"error","message":"Only admin can delete books","timestamp":"2025-07-24T21:05:46.402Z"}
