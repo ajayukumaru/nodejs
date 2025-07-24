@@ -1,0 +1,19 @@
+{"level":"error","message":"Unauthorized","timestamp":"2025-07-24T19:38:15.632Z"}
+{"level":"error","message":"Invalid token","timestamp":"2025-07-24T19:39:29.883Z"}
+{"level":"error","message":"Invalid token","timestamp":"2025-07-24T19:39:37.708Z"}
+{"level":"error","message":"Unauthorized","timestamp":"2025-07-24T19:41:06.216Z"}
+{"level":"error","message":"Invalid token","timestamp":"2025-07-24T19:48:00.585Z"}
+{"level":"error","message":"Invalid token","timestamp":"2025-07-24T19:48:52.232Z"}
+{"level":"error","message":"Invalid credentials","timestamp":"2025-07-24T20:23:36.320Z"}
+{"level":"error","message":"Invalid token","timestamp":"2025-07-24T20:25:19.698Z"}
+{"level":"error","message":"Invalid token","timestamp":"2025-07-24T20:25:23.562Z"}
+{"level":"error","message":"Cannot access 'book' before initialization","timestamp":"2025-07-24T20:36:50.515Z"}
+{"level":"error","message":"Cannot access 'book' before initialization","timestamp":"2025-07-24T20:37:09.902Z"}
+{"level":"error","message":"Cannot access 'book' before initialization","timestamp":"2025-07-24T20:37:23.264Z"}
+{"level":"error","message":"res.status(...).message is not a function","timestamp":"2025-07-24T20:37:42.075Z"}
+{"level":"error","message":"res.message is not a function","timestamp":"2025-07-24T20:38:04.309Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:38:33.822Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:46:24.020Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:46:30.629Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:46:48.493Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2025-07-24T20:47:16.030Z"}
